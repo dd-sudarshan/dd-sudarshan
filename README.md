@@ -46,6 +46,7 @@ Passionate software developer focused on building clean, modern, and user-centri
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dd-sudarshan&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd-sudarshan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dd-sudarshan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
