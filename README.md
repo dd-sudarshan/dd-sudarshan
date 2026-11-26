@@ -13,7 +13,7 @@ Passionate software developer focused on building clean, modern, and user-centri
 
 ### 🚀 About Me
 * 📍 **Based in:** Sri Lanka 🇱🇰
-* 🧠 **Learning:** Advanced Full-Stack Architecture, TypeScript, and System Design
+* 🧠 **Learning:** Advanced Full-Stack Architecture, TypeScript
 * 🤝 **Collaborating on:** Open-source React, Next.js, and Mobile application projects
 * ⚡ **Focus:** Workflow automation, clean UI design, and continuous learning
 
